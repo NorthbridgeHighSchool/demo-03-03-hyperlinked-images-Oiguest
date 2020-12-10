@@ -14,11 +14,17 @@ p {
   max-height: 200px;
 }
 .logo {
-  height: 50px;
+  height: 100px;
+  float: left;
+  margin-right: 15px; 
 }
 a:link {
   color: rgb(131, 179, 139);
 }
 a:visited {
   color: rgb(238, 174, 115);
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
 }
